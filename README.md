@@ -14,11 +14,17 @@ The dashboard includes the following visualizations:
 
 Based on the information gathered, we can derive some key insights:
 i) Maharashtra emerges as the state with the highest number of societies, totalling 28. This suggests a significant level of economic and social activity within the state.
+
 ii) The states of Uttar Pradesh, Kerala, Tamil Nadu, Telangana, and Andhra Pradesh prominently feature Agro sector types, implying that these regions have a significant focus on agricultural activities.
+
 iii) The pie chart analysis reveals that Agro sector types dominate the majority, with a count of 52. Cooperative Banks follow with 11, and Health/Hospital sector types with 9. This suggests that Agro is the most prevalent sector type among the analyzed categories.
+
 iv) The dominance of Agro sector types across multiple states indicates the importance of agriculture as a key economic driver in those regions. This could be due to factors such as favourable climate, availability of resources, and agricultural expertise.
+
 v) The chart demonstrates substantial growth in the Agro sector type from 2017 to 2022. This signifies significant expansion and development within the agricultural sector during this period.
+
 vi) Furthermore, the chart also highlights a gradual growth in the Health/Hospital sector type specifically from 2021 to 2022. This could be due to factors such as population growth, increased health awareness, or improved access to medical facilities.
+
 vii) Finally, the visualization indicates that Maharashtra, Gujarat, and Rajasthan are the primary areas of operation for a majority of societies, totalling 15. This suggests a concentrated presence and focus of societies in these regions.
 
 These insights provide a glimpse into the trends, patterns, and characteristics revealed by the visualizations and data analyzed.
